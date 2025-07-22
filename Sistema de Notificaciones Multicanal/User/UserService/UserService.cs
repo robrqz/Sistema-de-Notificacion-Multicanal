@@ -13,20 +13,20 @@ namespace Sistema_de_Notificaciones_Multicanal.User.UserService
     {
         private List<UserEntity> _UserList = new List<UserEntity>();
 
-        public string NewUser(string Name, int id)
+        public string NewUser(string Name, int NewID)
         {
             if (_UserList.Exists(c => c.name.Equals(Name, StringComparison.OrdinalIgnoreCase)))
             {
                 return "No pueden haber dos usuarios iguales";
             }
 
-            int nuevoID = _UserList.Any() ? _UserList.Max(u => u.id) + 1 : 1;
+            NewID = _UserList.Any() ? _UserList.Max(u => u.id) + 1 : 1;
 
-            var user = new UserEntity(Name, nuevoID);
+            var user = new UserEntity(Name, NewID);
 
             _UserList.Add(user);
 
-            return $"Usuario registrado correctamente con ID: {nuevoID}";
+            return $"User registrado correctamente con ID: {NewID}";
         }
 
         public int GetIDByUser(string name)
@@ -55,8 +55,5 @@ namespace Sistema_de_Notificaciones_Multicanal.User.UserService
             return _UserList.Any(u =>
                 u.name.Equals(nombreUsuario, StringComparison.OrdinalIgnoreCase));
         }
-
-
-
     }
 }

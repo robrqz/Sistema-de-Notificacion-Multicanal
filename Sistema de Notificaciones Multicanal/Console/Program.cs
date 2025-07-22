@@ -3,25 +3,25 @@ using Sistema_de_Notificaciones_Multicanal.HelpersUniversales.Validacion;
 using Sistema_de_Notificaciones_Multicanal.Notification.Channels.Email;
 using Sistema_de_Notificaciones_Multicanal.Notification.Channels.SMS;
 using Sistema_de_Notificaciones_Multicanal.Notification.Channels.Whatsapp;
-using Sistema_de_Notificaciones_Multicanal.Notification.Interfaces.INotificationChannel;
 using Sistema_de_Notificaciones_Multicanal.Notification.Service;
 using Sistema_de_Notificaciones_Multicanal.User.Entities;
 using Sistema_de_Notificaciones_Multicanal.User.UserService;
-using Sistema_de_Notificaciones_Multicanal.Notification.Interfaces.INotification;
 using Sistema_de_Notificaciones_Multicanal.Notification.Types.Bienvenida;
 using Sistema_de_Notificaciones_Multicanal.Notification.Types.Alerta;
 using Sistema_de_Notificaciones_Multicanal.Notification.Types.Recordatorio;
 using Sistema_de_Notificaciones_Multicanal.User.HelpersUser;
 using Sistema_de_Notificaciones_Multicanal.Notification.HelperNotification;
 using Sistema_de_Notificaciones_Multicanal.Notification.FlowService;
+using Sistema_de_Notificaciones_Multicanal.Notification.Factory;
 
 public class Program
 {
     static void Main()
     {
         var UserService = new UserService();
-        var NotificationService = new NotificationService();
-        var NotificationFlowService = new NotificationFlowService(UserService, NotificationService);
+        var notificationService = new NotificationService();
+        var factory = new NotificationFactory();
+
 
         int MenuOption;
         do
@@ -64,8 +64,8 @@ public class Program
                     }
 
                     int id = UserService.GetIDByUser(UserName);
-                    string mesaje = UserService.NewUser(UserName, id);
-                    Console.WriteLine(mesaje);
+                    string Message = UserService.NewUser(UserName, id);
+                    Console.WriteLine(Message);
 
                     break;
                 case 2:
@@ -87,7 +87,7 @@ public class Program
 
                     break;
                 case 3:
-                    
+
                     var ShowUsersCase3 = UserService.GetUserList();
                     bool AreUsers = HelpersUser.UserCheker(ShowUsersCase3);
 
@@ -114,7 +114,7 @@ public class Program
                         Console.WriteLine("Presione una tecla para volver al menú...");
                         Console.ReadKey();
                         Console.Clear();
-                        break; 
+                        break;
                     }
 
                     //chequea que el usuario exista
@@ -122,7 +122,7 @@ public class Program
                     if (!existeUsuario)
                     {
                         Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine("Usuario no registrado.");
+                        Console.WriteLine("User no registrado.");
                         Console.ResetColor();
                         Console.WriteLine("Presione una tecla para volver al menú...");
                         Console.ReadKey();
@@ -171,7 +171,11 @@ public class Program
 
                     } while (!ValidateNotificationChannel.IsValidNotificationChannel);
 
-                    NotificationFlowService.EnviarNotificacion(ExistingUser, NotificationType, NotificationChannel);
+
+                    var flujo = new NotificationFlowService(UserService, notificationService, factory);
+
+                    flujo.EnviarNotificacion(ExistingUser, NotificationChannel, NotificationType);
+
 
                     Console.WriteLine("Presione una tecla para volver al menú...");
                     Console.ReadKey();
