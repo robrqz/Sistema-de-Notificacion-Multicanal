@@ -13,6 +13,7 @@ using Sistema_de_Notificaciones_Multicanal.Notification.Types.Bienvenida;
 using Sistema_de_Notificaciones_Multicanal.Notification.Types.Recordatorio;
 using Sistema_de_Notificaciones_Multicanal.User.UserService;
 using System.Threading.Channels;
+using Microsoft.Extensions.DependencyInjection;
 
 
 namespace Sistema_de_Notificaciones_Multicanal.Notification.Service

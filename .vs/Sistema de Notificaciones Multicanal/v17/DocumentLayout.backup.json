@@ -7,26 +7,6 @@
       "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\flowservice\\notificationflowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\flowservice\\notificationflowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\interfaces\\inotificationfactory\\inotificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\interfaces\\inotificationfactory\\inotificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\notification entity\\notificationentuty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\notification entity\\notificationentuty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\user\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\user\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,12 +15,47 @@
       "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\user\\userentity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\types\\alerta\\notificationtypealerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\types\\alerta\\notificationtypealerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\interfaces\\inotificationchannel\\inotificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\interfaces\\inotificationchannel\\inotificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\factory\\notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\factory\\notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\interfaces\\inotificationfactory\\inotificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\interfaces\\inotificationfactory\\inotificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\notification entity\\notificationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\notification entity\\notificationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\interfaces\\inotificationtype\\inotificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\interfaces\\inotificationtype\\inotificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\flowservice\\notificationflowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\flowservice\\notificationflowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.Build.Tasks.Git\\build\\Microsoft.Build.Tasks.Git.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\types\\bienvenida\\notificationtypebienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\types\\bienvenida\\notificationtypebienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\types\\recordatorio\\notificationtyperecordatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\types\\recordatorio\\notificationtyperecordatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\channels\\whatsapp\\notificationchannelwhatsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\channels\\whatsapp\\notificationchannelwhatsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\channels\\sms\\notificationchannelsms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,27 +66,12 @@
       "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\channels\\email\\notificatiochannelemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\interfaces\\inotificationtype\\inotificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\interfaces\\inotificationtype\\inotificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\types\\alerta\\notificationtypealerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\types\\alerta\\notificationtypealerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\channels\\whatsapp\\notificationchannelwhatsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\channels\\whatsapp\\notificationchannelwhatsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.Build.Tasks.Git\\build\\Microsoft.Build.Tasks.Git.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\factory\\notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\factory\\notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\types\\bienvenida\\notificationtypebienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\types\\bienvenida\\notificationtypebienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\types\\recordatorio\\notificationtyperecordatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\types\\recordatorio\\notificationtyperecordatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|c:\\users\\roberto.panario2_kli\\documents\\github\\repositoriosistemanotificacionmulticanal\\sistema de notificaciones multicanal\\notification\\interfaces\\inotificationchannel\\inotificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09BE0F0-797C-474C-B868-2114C5452126}|Sistema de Notificaciones Multicanal\\Sistema de Notificaciones Multicanal.csproj|solutionrelative:sistema de notificaciones multicanal\\notification\\interfaces\\inotificationchannel\\inotificationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -91,7 +91,7 @@
               "RelativeDocumentMoniker": "Sistema de Notificaciones Multicanal\\Console\\Program.cs",
               "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\Console\\Program.cs",
               "RelativeToolTip": "Sistema de Notificaciones Multicanal\\Console\\Program.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAQwIsAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T14:40:06.051Z",
               "IsPinned": true,
@@ -99,42 +99,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "UserEntity.cs",
               "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\User\\UserEntity\\UserEntity.cs",
               "RelativeDocumentMoniker": "Sistema de Notificaciones Multicanal\\User\\UserEntity\\UserEntity.cs",
               "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\User\\UserEntity\\UserEntity.cs",
               "RelativeToolTip": "Sistema de Notificaciones Multicanal\\User\\UserEntity\\UserEntity.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T16:35:15.667Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\User\\UserService\\UserService.cs",
               "RelativeDocumentMoniker": "Sistema de Notificaciones Multicanal\\User\\UserService\\UserService.cs",
               "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\User\\UserService\\UserService.cs",
               "RelativeToolTip": "Sistema de Notificaciones Multicanal\\User\\UserService\\UserService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T14:56:54.79Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NotificationEntuty.cs",
-              "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\Notification\\Notification Entity\\NotificationEntuty.cs",
-              "RelativeDocumentMoniker": "Sistema de Notificaciones Multicanal\\Notification\\Notification Entity\\NotificationEntuty.cs",
-              "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\Notification\\Notification Entity\\NotificationEntuty.cs",
-              "RelativeToolTip": "Sistema de Notificaciones Multicanal\\Notification\\Notification Entity\\NotificationEntuty.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "NotificationEntity.cs",
+              "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\Notification\\Notification Entity\\NotificationEntity.cs",
+              "RelativeDocumentMoniker": "Sistema de Notificaciones Multicanal\\Notification\\Notification Entity\\NotificationEntity.cs",
+              "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\Notification\\Notification Entity\\NotificationEntity.cs",
+              "RelativeToolTip": "Sistema de Notificaciones Multicanal\\Notification\\Notification Entity\\NotificationEntity.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T16:48:20.534Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -144,15 +147,19 @@
               "RelativeDocumentMoniker": "Sistema de Notificaciones Multicanal\\Notification\\Service\\NotificationService.cs",
               "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\Notification\\Service\\NotificationService.cs",
               "RelativeToolTip": "Sistema de Notificaciones Multicanal\\Notification\\Service\\NotificationService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T14:40:40.748Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\.gitignore",
               "RelativeDocumentMoniker": "Sistema de Notificaciones Multicanal\\.gitignore",
@@ -164,37 +171,34 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "INotificationFactory.cs",
               "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\Notification\\Interfaces\\INotificationFactory\\INotificationFactory.cs",
               "RelativeDocumentMoniker": "Sistema de Notificaciones Multicanal\\Notification\\Interfaces\\INotificationFactory\\INotificationFactory.cs",
               "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\Notification\\Interfaces\\INotificationFactory\\INotificationFactory.cs",
               "RelativeToolTip": "Sistema de Notificaciones Multicanal\\Notification\\Interfaces\\INotificationFactory\\INotificationFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T15:34:32.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "INotificationType.cs",
               "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\Notification\\Interfaces\\INotificationType\\INotificationType.cs",
               "RelativeDocumentMoniker": "Sistema de Notificaciones Multicanal\\Notification\\Interfaces\\INotificationType\\INotificationType.cs",
               "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\Notification\\Interfaces\\INotificationType\\INotificationType.cs",
               "RelativeToolTip": "Sistema de Notificaciones Multicanal\\Notification\\Interfaces\\INotificationType\\INotificationType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T15:40:21.676Z"
+              "WhenOpened": "2025-07-21T15:40:21.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "INotificationChannel.cs",
               "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\Notification\\Interfaces\\INotificationChannel\\INotificationChannel.cs",
               "RelativeDocumentMoniker": "Sistema de Notificaciones Multicanal\\Notification\\Interfaces\\INotificationChannel\\INotificationChannel.cs",
@@ -202,11 +206,12 @@
               "RelativeToolTip": "Sistema de Notificaciones Multicanal\\Notification\\Interfaces\\INotificationChannel\\INotificationChannel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T14:40:28.988Z"
+              "WhenOpened": "2025-07-21T14:40:28.988Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "NotificatioChannelEmail.cs",
               "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\Notification\\Channels\\Email\\NotificatioChannelEmail.cs",
               "RelativeDocumentMoniker": "Sistema de Notificaciones Multicanal\\Notification\\Channels\\Email\\NotificatioChannelEmail.cs",
@@ -214,11 +219,12 @@
               "RelativeToolTip": "Sistema de Notificaciones Multicanal\\Notification\\Channels\\Email\\NotificatioChannelEmail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T16:34:31.78Z"
+              "WhenOpened": "2025-07-21T16:34:31.78Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "NotificationChannelSMS.cs",
               "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\Notification\\Channels\\SMS\\NotificationChannelSMS.cs",
               "RelativeDocumentMoniker": "Sistema de Notificaciones Multicanal\\Notification\\Channels\\SMS\\NotificationChannelSMS.cs",
@@ -226,7 +232,8 @@
               "RelativeToolTip": "Sistema de Notificaciones Multicanal\\Notification\\Channels\\SMS\\NotificationChannelSMS.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T16:34:22.488Z"
+              "WhenOpened": "2025-07-21T16:34:22.488Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -238,11 +245,12 @@
               "RelativeToolTip": "Sistema de Notificaciones Multicanal\\Notification\\Channels\\Whatsapp\\NotificationChannelWhatsapp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T16:34:03.995Z"
+              "WhenOpened": "2025-07-21T16:34:03.995Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 12,
               "Title": "NotificationTypeRecordatorio.cs",
               "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\Notification\\Types\\Recordatorio\\NotificationTypeRecordatorio.cs",
               "RelativeDocumentMoniker": "Sistema de Notificaciones Multicanal\\Notification\\Types\\Recordatorio\\NotificationTypeRecordatorio.cs",
@@ -250,11 +258,12 @@
               "RelativeToolTip": "Sistema de Notificaciones Multicanal\\Notification\\Types\\Recordatorio\\NotificationTypeRecordatorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T16:33:32.81Z"
+              "WhenOpened": "2025-07-21T16:33:32.81Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 11,
               "Title": "NotificationTypeBienvenida.cs",
               "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\Notification\\Types\\Bienvenida\\NotificationTypeBienvenida.cs",
               "RelativeDocumentMoniker": "Sistema de Notificaciones Multicanal\\Notification\\Types\\Bienvenida\\NotificationTypeBienvenida.cs",
@@ -262,11 +271,12 @@
               "RelativeToolTip": "Sistema de Notificaciones Multicanal\\Notification\\Types\\Bienvenida\\NotificationTypeBienvenida.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T16:33:21.303Z"
+              "WhenOpened": "2025-07-21T16:33:21.303Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "NotificationTypeAlerta.cs",
               "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\Notification\\Types\\Alerta\\NotificationTypeAlerta.cs",
               "RelativeDocumentMoniker": "Sistema de Notificaciones Multicanal\\Notification\\Types\\Alerta\\NotificationTypeAlerta.cs",
@@ -274,36 +284,38 @@
               "RelativeToolTip": "Sistema de Notificaciones Multicanal\\Notification\\Types\\Alerta\\NotificationTypeAlerta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T16:32:29.328Z"
+              "WhenOpened": "2025-07-21T16:32:29.328Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 4,
               "Title": "NotificationFactory.cs",
               "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\Notification\\Factory\\NotificationFactory.cs",
               "RelativeDocumentMoniker": "Sistema de Notificaciones Multicanal\\Notification\\Factory\\NotificationFactory.cs",
               "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\Notification\\Factory\\NotificationFactory.cs",
               "RelativeToolTip": "Sistema de Notificaciones Multicanal\\Notification\\Factory\\NotificationFactory.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T15:50:03.703Z"
+              "WhenOpened": "2025-07-21T15:50:03.703Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "NotificationFlowService.cs",
               "DocumentMoniker": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\Notification\\FlowService\\NotificationFlowService.cs",
               "RelativeDocumentMoniker": "Sistema de Notificaciones Multicanal\\Notification\\FlowService\\NotificationFlowService.cs",
               "ToolTip": "C:\\Users\\roberto.panario2_kli\\Documents\\GitHub\\RepositorioSistemaNotificacionMulticanal\\Sistema de Notificaciones Multicanal\\Notification\\FlowService\\NotificationFlowService.cs",
               "RelativeToolTip": "Sistema de Notificaciones Multicanal\\Notification\\FlowService\\NotificationFlowService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAkwCMAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T15:48:53.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 10,
               "Title": "Microsoft.Build.Tasks.Git.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.Build.Tasks.Git\\build\\Microsoft.Build.Tasks.Git.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.Build.Tasks.Git\\build\\Microsoft.Build.Tasks.Git.targets",
@@ -311,7 +323,8 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.Build.Tasks.Git\\build\\Microsoft.Build.Tasks.Git.targets",
               "ViewState": "AgIAAAQAAAAAAAAAAAAowBgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-07-21T14:40:18.556Z"
+              "WhenOpened": "2025-07-21T14:40:18.556Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -14,14 +14,31 @@ using Sistema_de_Notificaciones_Multicanal.Notification.HelperNotification;
 using Sistema_de_Notificaciones_Multicanal.Notification.FlowService;
 using Sistema_de_Notificaciones_Multicanal.Notification.Factory;
 
+using Microsoft.Extensions.DependencyInjection;
+using System.ComponentModel;
+
+using Sistema_de_Notificaciones_Multicanal.Notification.INotification;
+using static System.Runtime.InteropServices.JavaScript.JSType;
+
 public class Program
 {
     static void Main()
     {
-        var UserService = new UserService();
-        var notificationService = new NotificationService();
-        var factory = new NotificationFactory();
+        //resolucion dependencias
+        var serverProvider = new ServiceCollection();
 
+        serverProvider.AddSingleton<UserService>();
+        serverProvider.AddSingleton<NotificationService>();
+        serverProvider.AddSingleton<INotificationType>(sp => (INotificationType)sp.GetRequiredService<NotificationService>());
+        serverProvider.AddSingleton<INotificationChannel>(sp => (INotificationChannel)sp.GetRequiredService<NotificationService>());
+        serverProvider.AddSingleton<NotificationFlowService>();
+        serverProvider.AddSingleton<NotificationFactory>();
+
+        var provider = serverProvider.BuildServiceProvider();
+
+        var UserService = provider.GetRequiredService<UserService>();
+        var NotificationService = provider.GetRequiredService<NotificationService>();
+        var NotificationFactory = provider.GetRequiredService<NotificationFactory>();
 
         int MenuOption;
         do
@@ -63,9 +80,14 @@ public class Program
                         break;
                     }
 
+                    var nuevoUsuario = new UserEntity(UserName);
+
                     int id = UserService.GetIDByUser(UserName);
-                    string Message = UserService.NewUser(UserName, id);
-                    Console.WriteLine(Message);
+                    nuevoUsuario.SetId(id);
+
+                    string resultado = UserService.NewUser(UserName, id);
+                    Console.WriteLine(resultado);
+                    serverProvider.AddSingleton<UserEntity>(sp => new UserEntity(UserName));
 
                     break;
                 case 2:
@@ -172,9 +194,14 @@ public class Program
                     } while (!ValidateNotificationChannel.IsValidNotificationChannel);
 
 
-                    var flujo = new NotificationFlowService(UserService, notificationService, factory);
+                    var flujo = new NotificationFlowService(UserService, NotificationService, NotificationFactory);
+
+                    
+
 
                     flujo.EnviarNotificacion(ExistingUser, NotificationChannel, NotificationType);
+
+                    
 
 
                     Console.WriteLine("Presione una tecla para volver al menú...");
@@ -182,6 +209,7 @@ public class Program
                     Console.Clear();
 
                     break;
+                    
             }
         } while (MenuOption != 4);
     }

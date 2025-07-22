@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Channels;
 using System.Threading.Tasks;
+using Microsoft.Extensions.DependencyInjection;
 using Sistema_de_Notificaciones_Multicanal.User.Entities;
 
 
@@ -22,9 +23,10 @@ namespace Sistema_de_Notificaciones_Multicanal.User.UserService
 
             NewID = _UserList.Any() ? _UserList.Max(u => u.id) + 1 : 1;
 
-            var user = new UserEntity(Name, NewID);
+            var user = new UserEntity(Name);
 
             _UserList.Add(user);
+            user.SetId(NewID);
 
             return $"User registrado correctamente con ID: {NewID}";
         }

@@ -19,11 +19,17 @@ namespace Sistema_de_Notificaciones_Multicanal.User.Entities
         public string name => Name;
         public int id => Id;
         public List<INotificationChannel> notificationChannels => PreferredChannels;
-        public UserEntity(string name, int id)
+        public UserEntity(string name)
         {
             Name = name;
+ 
+        }
+        public void SetId(int id)
+        {
             Id = id;
         }
+
+
 
 
     }

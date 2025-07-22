@@ -11,6 +11,7 @@ using Sistema_de_Notificaciones_Multicanal.Notification.Interfaces.INotification
 using Sistema_de_Notificaciones_Multicanal.Notification.Types.Alerta;
 using Sistema_de_Notificaciones_Multicanal.Notification.Types.Bienvenida;
 using Sistema_de_Notificaciones_Multicanal.Notification.Types.Recordatorio;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace Sistema_de_Notificaciones_Multicanal.Notification.Factory
 {
